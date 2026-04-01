@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+img {
+  width: 400px;
+  border-radius: 10px;
+}
+
+.game-card {
+  margin-top: 20px;
+}
+
+.clickable {
+  margin-left: 5px;
+  color: #4ea1ff;
+  cursor: pointer;
+}
+
+.ban-list {
+  margin-top: 30px;
+}
